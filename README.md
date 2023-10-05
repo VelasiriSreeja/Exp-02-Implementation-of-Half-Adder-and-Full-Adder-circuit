@@ -88,11 +88,13 @@ RTL realization
 
 1.Half Adder:
 
-![Screenshot (365)](https://github.com/VelasiriSreeja/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118344328/ca192aa0-b9cd-4cc7-a928-f6c2dd59beb1)
+![Screenshot (376)](https://github.com/VelasiriSreeja/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118344328/f30e73b5-a304-4f42-ab89-84606caf647a)
+
 
 2.Full Adder:
 
-![Screenshot (366)](https://github.com/VelasiriSreeja/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118344328/813b55dd-25f1-4a23-a439-0258fefe2f93)
+![Screenshot (377)](https://github.com/VelasiriSreeja/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118344328/e04aaade-14b2-4406-9c3b-d2616d1c5c4f)
+
 
 ### Result:
 Thus half adder and full adder circuit is successfully designed and verified its truth table in

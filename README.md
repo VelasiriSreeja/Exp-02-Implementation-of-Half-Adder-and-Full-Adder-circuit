@@ -1,6 +1,5 @@
 # Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
-# Implementation-of-Half-Adder-and-Full-Adder-circuit
 ### AIM:
 To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
 
@@ -66,18 +65,35 @@ Logic symbol & Truthtable
 RTL realization
 
 ### Output:
+1.Half Adder:
+
 ![Screenshot (360)](https://github.com/VelasiriSreeja/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118344328/5a55ae44-0e34-49a5-b166-648865fed89f)
+
+2.Full Adder:
+
 ![Screenshot (361)](https://github.com/VelasiriSreeja/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118344328/1570f9fe-afbb-4f15-9046-01dd9efa13e1)
 
 
 ### TIMING DIAGRAM
+1.Half Adder:
+
 ![Screenshot (362)](https://github.com/VelasiriSreeja/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118344328/a0c4d9c3-e064-4cd4-96e6-1281b623c438)
+
+2.Full Adder:
+ 
 ![Screenshot (363)](https://github.com/VelasiriSreeja/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118344328/5b6224c0-17c1-4b18-a5ea-31ab4d1c26df)
 
 
 ### TRUTH TABLE 
+
+1.Half Adder:
+
 ![Screenshot (365)](https://github.com/VelasiriSreeja/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118344328/ca192aa0-b9cd-4cc7-a928-f6c2dd59beb1)
+
+2.Full Adder:
+
 ![Screenshot (366)](https://github.com/VelasiriSreeja/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118344328/813b55dd-25f1-4a23-a439-0258fefe2f93)
 
-
 ### Result:
+Thus half adder and full adder circuit is successfully designed and verified its truth table in
+Quartus using Verilog programming.

@@ -62,8 +62,7 @@ and (e,ci,d);
 and (f,a,b);
 or (co,e,f);
 endmodule
-Logic symbol & Truthtable
-RTL realization
+
 /*
 ```
 

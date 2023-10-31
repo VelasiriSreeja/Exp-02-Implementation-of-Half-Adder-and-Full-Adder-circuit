@@ -40,6 +40,7 @@ Program to design a half adder and full adder circuit and verify its truth table
 Developed by: v.sreeja
 RegisterNumber:  212222230169
 */
+``
 For HALF ADDER:
 
 module halfadder(a,b,s,c);
@@ -63,6 +64,7 @@ or (co,e,f);
 endmodule
 Logic symbol & Truthtable
 RTL realization
+``
 
 ### Output:
 1.Half Adder:
